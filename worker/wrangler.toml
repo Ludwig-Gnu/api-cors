@@ -1,7 +1,7 @@
 name = "api-cors"
 main = "src/index.js"
 compatibility_date = "2025-09-20"
-account_id = "Ludwig-Gnu"
+account_id = "79e6bd50d82d2dfea392ed9e39322403"
 
 # Attache la route directement :
 routes = [
