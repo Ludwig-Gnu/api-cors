@@ -1,0 +1,9 @@
+name = "api-cors"
+main = "src/index.js"
+compatibility_date = "2025-09-20"
+account_id = "Ludwig-Gnu"
+
+# Attache la route directement :
+routes = [
+  { pattern = "api.powerpole.studio/*", zone_name = "powerpole.studio" }
+]
